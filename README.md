@@ -11,7 +11,7 @@ Simple Python script for MS15_034 vulnerability scan and exploit
 - python3.x
 - scapy
 
-  * $ pip install -r requirements
+  * $ pip install -r requirements.txt
 
 ## Usage:
 
